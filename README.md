@@ -16,7 +16,6 @@ More than 15 years of professional experience in computer simulations of fluid f
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/marcusfelipevalle/)
-* [Medium](https://www.medium.com)
 
 
 ## Projects:
