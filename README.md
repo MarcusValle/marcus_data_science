@@ -10,7 +10,7 @@ Meu portfólio de projetos de Data Science
 # Marcus Valle
 <sub>*Mechanical Engineer* at Transpetro</sub>
 
-More than 10 years of professional experience in computer simulations of fluid flows in onshore and underwater pipelines, sizing of valves, centrifugal pumps and firefighting systems in storage tanks and piers.
+More than 15 years of professional experience in computer simulations of fluid flows in onshore and underwater pipelines, sizing of valves, centrifugal pumps and firefighting systems in storage tanks and piers.
 
 **Background in:** Python, Machine Learning, C/C++, Hydraulic.
 
@@ -19,8 +19,7 @@ More than 10 years of professional experience in computer simulations of fluid f
 * [Medium](https://www.medium.com)
 
 
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+## Projects:
 
 * **Como utilizar a energia solar e os materiais reaproveitáveis e de baixo custo em regiões carentes de recursos:** https://bit.ly/3IjxaaS
 
