@@ -12,7 +12,7 @@ Meu portfólio de projetos de Data Science
 
 More than 15 years of professional experience in computer simulations of fluid flows in onshore and underwater pipelines, sizing of valves, centrifugal pumps and firefighting systems in storage tanks and piers.
 
-**Background in:** Python, Machine Learning, C/C++, Hydraulic.
+**Background in:** Python, Machine Learning, C/C++, Hydraulic, Pumps, Valves.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/marcusfelipevalle/)
