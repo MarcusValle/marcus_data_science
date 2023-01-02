@@ -18,7 +18,7 @@ Data Science enthusiast.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/marcusfelipevalle/)
-* [Medium](marcusfelipevalle.medium.com)
+* [Medium](https://marcusfelipevalle.medium.com)
 
 
 ## Projects:
