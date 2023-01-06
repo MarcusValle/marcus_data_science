@@ -1,7 +1,7 @@
 # marcus_data_science
 Meu portfólio de projetos de Data Science
 
-[![author](https://img.shields.io/badge/author-marcusvalle-red.svg)](https://www.linkedin.com/in/marcusfelipevalle/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-marcusvalle-red.svg)](https://www.linkedin.com/in/marcusfelipevalle/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-3111/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 <p align="center">
   <img src="https://github.com/MarcusValle/marcus_data_science/blob/main/banner%20Marcus.png?raw=true" >
