@@ -24,6 +24,7 @@ Data Science enthusiast.
 ## Projects:
 
 * **Como utilizar a energia solar e os materiais reaproveitáveis e de baixo custo em regiões carentes de recursos:** https://bit.ly/3IjxaaS
+* **Analisando os dados do Airbnb para a cidade de Chicago (EUA):** https://bit.ly/3wHpbwZ
 
 
 ---
