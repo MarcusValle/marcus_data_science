@@ -25,6 +25,7 @@ Data Science enthusiast.
 
 * **Como utilizar a energia solar e os materiais reaproveitáveis e de baixo custo em regiões carentes de recursos:** https://bit.ly/3IjxaaS
 * **Analisando os dados do Airbnb para a cidade de Chicago (EUA):** https://bit.ly/3wHpbwZ
+* **Panorama da Covid no mundo e no Brasil:** http://bit.ly/3Y8hPQ8
 
 
 ---
